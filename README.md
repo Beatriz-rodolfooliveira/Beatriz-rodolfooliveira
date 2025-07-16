@@ -10,4 +10,4 @@ Em formação no curso de Análise e Desenvolvimento de Sistemas, com foco em An
 
 ### Contato
 - E-mail:beatrizrodolfooliveira@gmail.com
-- Linkedin: linkedin.com/in/beatriz-rodolfo-oliveira-285217230
+- Linkedin: https://www.linkedin.com/in/beatriz-rodolfo-oliveira-285217230/
