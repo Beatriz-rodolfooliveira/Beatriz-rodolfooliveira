@@ -1,4 +1,4 @@
-<h1 align='center'>Olá, sou a Beatriz! ✨</h1>
+<h1 align=>Olá, sou a Beatriz! ✨</h1>
 
 Em formação no curso de Análise e Desenvolvimento de Sistemas, com foco em Análise de Dados. Tenho direcionado meus estudos às principais ferramentas da área, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada como futura analista de dados.
 
