@@ -10,5 +10,5 @@ Em formação no curso de Análise e Desenvolvimento de Sistemas, com foco em An
 
 ### Contato
 - <a href="https://www.linkedin.com/in/beatriz-rodolfo-oliveira-285217230/" target="_blank">
-  <img src="https://img.shields.io/badge/-in%2FBeatriz-purple?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-in%2FBeatriz-purple?style=social-square&logo=linkedin" alt="LinkedIn">
 </a>
