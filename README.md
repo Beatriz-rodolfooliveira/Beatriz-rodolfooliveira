@@ -9,5 +9,6 @@ Em formação no curso de Análise e Desenvolvimento de Sistemas, com foco em An
 - 🚀 Buscando uma oportunidade na área de dados ou tecnologia para crescer e contribuir!
 
 ### Contato
-- E-mail:beatrizrodolfooliveira@gmail.com
-- Linkedin: https://www.linkedin.com/in/beatriz-rodolfo-oliveira-285217230/
+- <a href="https://www.linkedin.com/in/beatriz-rodolfo-oliveira-285217230/" target="_blank">
+  <img src="https://img.shields.io/badge/-in%2FBeatriz-purple?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
